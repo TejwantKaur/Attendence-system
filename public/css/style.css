@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+    /* background:  rgb(80, 106, 141); */
+    background-color: rgb(170, 192, 221) !important;
+}
+
+/* about */
+body{
+    height: 100% !important;
+    /* background-color: aquamarine !important; */
+}
+.cont{
+    height: 30% !important;
+    /* background: pink; */
+    display: flex;
+    margin: 5rem;
+}
+.photo{
+    height: 350px;
+}
+img{
+    height: 100%;
+    border-radius: 30px;
+}
+.about{
+    margin-left: 2rem;
+}
